@@ -1,0 +1,13 @@
+{
+  "is_active": false,
+  "is_forced": false,
+  "url": "https://ankraixmotion.vercel.app",
+  "ui": {
+    "title_text": "Update Tersedia",
+    "label_text": "INFORMASI UPDATE",
+    "btn_text": "UPDATE SEKARANG",
+    "btn_text_color": "#FFFFFF",
+    "btn_bg": "#000000",
+    "img_url": ""
+  }
+}
