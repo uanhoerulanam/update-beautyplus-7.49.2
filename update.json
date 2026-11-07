@@ -1,5 +1,5 @@
 {
-  "is_active": false,
+  "is_active": true,
   "is_forced": true,
   "url": "https://ankraixmotion.vercel.app",
   "ui": {
