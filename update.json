@@ -1,6 +1,6 @@
 {
-  "is_active": true,
-  "is_forced": true,
+  "is_active": false,
+  "is_forced": false,
   "url": "https://ankraixmotion.vercel.app",
   "ui": {
     "title_text": "Update Tersedia",
